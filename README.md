@@ -25,7 +25,7 @@
 
 ## 🎥 게임 플레이 영상
 
-- ▶️ **Full Gameplay (YouTube)**: [링크 삽입](https://www.youtube.com/watch?reload=9&si=MK1PQLyo2GcY_HKT&v=U4AMPgHsDk4&feature=youtu.be)
+- ▶️ **Full Gameplay (YouTube)**: [Sonnet](https://www.youtube.com/watch?reload=9&si=MK1PQLyo2GcY_HKT&v=U4AMPgHsDk4&feature=youtu.be)
 
 ---
 
@@ -52,15 +52,15 @@
 
 ## 📜 에셋 및 참고한 사이트
 
-- [링크 삽입](https://fab.com/s/2bb2811545b4)
-- [링크 삽입](https://fab.com/s/f42b724f2c2f)
-- [링크 삽입](https://fab.com/s/dd2f6f98ec52)
-- [링크 삽입](https://fab.com/s/15e6589c230c)
-- [링크 삽입](https://fab.com/s/7d1f29a6b743)
-- [링크 삽입](https://fab.com/s/da8330cd8527)
-- [링크 삽입](https://www.youtube.com/watch?v=jCr1JpIr2ww)
-- [링크 삽입](https://odds-and-ends-box.tistory.com/136)
-- [링크 삽입](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/animation-notifies-in-unreal-engine)
-- [링크 삽입](https://github.com/go2665/KI7_UnrealBlueprint)
+- [보스 스킬 VFX](https://fab.com/s/2bb2811545b4)
+- [보스 공격 VFX](https://fab.com/s/f42b724f2c2f)
+- [무기 SFX](https://fab.com/s/dd2f6f98ec52)
+- [건물 에셋](https://fab.com/s/15e6589c230c)
+- [플레이어 및 적 에셋](https://fab.com/s/7d1f29a6b743)
+- [플레이어 공격 VFX](https://fab.com/s/da8330cd8527)
+- [나이아가라 VFX](https://www.youtube.com/watch?v=jCr1JpIr2ww)
+- [콤보 어택](https://odds-and-ends-box.tistory.com/136)
+- [애니메이션 노티파이](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/animation-notifies-in-unreal-engine)
+- [언리얼 엔진 기본 프레임워크](https://github.com/go2665/KI7_UnrealBlueprint)
 
 ---
