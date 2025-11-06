@@ -1,4 +1,5 @@
 # ⚔️ Sonnet: 3인칭 액션 RPG
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/64a3460c-200f-4b96-bf95-8207c2f834b9" />
 
 ---
 
