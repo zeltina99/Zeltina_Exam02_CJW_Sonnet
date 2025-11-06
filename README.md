@@ -10,7 +10,7 @@
 
 ## 🕹️ **주제**
 
-**다크소울**과 **세키로**같은 유형을 지향하는 **소울라이크** 게임.
+**다크소울**과 **세키로**같은 유형을 지향하며 조선시대의 배경을 한 **소울라이크** 게임.
 
 ---
 
@@ -52,15 +52,15 @@
 
 ## 📜 에셋 및 참고한 사이트
 
-- [보스 스킬 VFX](https://fab.com/s/2bb2811545b4)
-- [보스 공격 VFX](https://fab.com/s/f42b724f2c2f)
-- [무기 SFX](https://fab.com/s/dd2f6f98ec52)
-- [건물 에셋](https://fab.com/s/15e6589c230c)
-- [플레이어 및 적 에셋](https://fab.com/s/7d1f29a6b743)
-- [플레이어 공격 VFX](https://fab.com/s/da8330cd8527)
-- [나이아가라 VFX](https://www.youtube.com/watch?v=jCr1JpIr2ww)
-- [콤보 어택](https://odds-and-ends-box.tistory.com/136)
-- [애니메이션 노티파이](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/animation-notifies-in-unreal-engine)
-- [언리얼 엔진 기본 프레임워크](https://github.com/go2665/KI7_UnrealBlueprint)
+- [에셋 - 보스 스킬 VFX](https://fab.com/s/2bb2811545b4)
+- [에셋 - 보스 공격 VFX](https://fab.com/s/f42b724f2c2f)
+- [에셋 - 무기 SFX](https://fab.com/s/dd2f6f98ec52)
+- [에셋 - 건물 에셋](https://fab.com/s/15e6589c230c)
+- [에셋 - 플레이어 및 적 에셋](https://fab.com/s/7d1f29a6b743)
+- [에셋 - 플레이어 공격 VFX](https://fab.com/s/da8330cd8527)
+- [나이아가라 VFX와 Spline Component에 대한 영상](https://www.youtube.com/watch?v=jCr1JpIr2ww)
+- [콤보 어택 구현에 관한 정보](https://odds-and-ends-box.tistory.com/136)
+- [애니메이션 노티파이 와 애님 노티파이 스테이트에 대한 언리얼 엔진 공식 사이트](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/animation-notifies-in-unreal-engine)
+- [언리얼 엔진 기본 프레임워크 (교수님 깃 리포지토리)](https://github.com/go2665/KI7_UnrealBlueprint)
 
 ---
